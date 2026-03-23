@@ -1,0 +1,13 @@
+El bastón inteligente es un dispositivo de asistencia diseñado para personas con discapacidad visual severa, con el objetivo de mejorar su seguridad y movilidad al desplazarse en diferentes entornos.
+
+El sistema está basado en un Arduino Uno, que actúa como el cerebro del dispositivo, procesando la información obtenida de distintos sensores y generando alertas sonoras mediante un Piezo Buzzer.
+
+El bastón incorpora un HC-SR04 Ultrasonic Sensor ubicado en la parte frontal, el cual permite detectar obstáculos a distancia sin necesidad de contacto físico. Dependiendo de la proximidad del objeto, el sistema emite diferentes tipos de sonido: un pitido leve cuando el objeto está a una distancia media, un pitido más rápido cuando se acerca, y un sonido continuo cuando el peligro es inmediato.
+
+Además se tratara de inlcluir, el sistema incluye un SW-420 Vibration Sensor y el Water Level Sensor,  el  SW-420 Vibration Sensor que permite identificar superficies inestables o vibraciones, como pisos irregulares, huecos o escalones, activando una alerta sonora para advertir al usuario de posibles caídas.
+
+mientras que el  Water Level Sensor cual detecta la presencia de agua o superficies húmedas, como charcos, activando una alarma continua para prevenir resbalones o accidentes.
+
+Todos los componentes están conectados mediante cables a lo largo del bastón, sin necesidad de una caja externa, lo que permite un diseño visible y funcional para fines de prototipo. El sistema puede ser alimentado mediante una batería, lo que lo hace portátil y adecuado para su uso en exteriores.
+
+En conjunto, este bastón inteligente proporciona al usuario información anticipada sobre su entorno, permitiéndole reaccionar con mayor seguridad ante obstáculos, superficies peligrosas o condiciones adversas, mejorando así su autonomía e independencia.
