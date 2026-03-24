@@ -1,8 +1,19 @@
-                                              Aplicación Móvil (Uso para personas con descapacidad)
-Nombre:Ramón Martínez López
-Materia:Taller de ingenieria de Software
+                                            Aplicación Móvil (Uso para personas con discapacidad)
 
-Descripion:La aplicación móvil será usada por familiares de personas con discapacidad, 
+
+Nombre:Ramón Martínez López
+Materia:Taller de ingeniería de Software
+
+Descripción:La aplicación móvil será usada por familiares de personas con discapacidad, 
 por lo que debe ser intuitiva y rápida en situaciones de estrés (una alerta de caída).
 
-Pantallas: La primera pantalla le pedira al usuario escribir su nombre y su contraseña para ingresar
+Pantallas: La primera pantalla le pedirá al usuario escribir su nombre  y una contraseña para ingresar a la aplicación,
+en la segunda pantalla se muestra primero el estado de conexión junto a la información de la persona (ip, nombre del dispositivo y ultima conexion),
+Más abajo se muestra el estado de batería, el tiempo estimado que le falta antes de acabarse mi pila, te muestra el estado de la batería (te muestra una señal de de que la batería ya se está acabando)
+y por último se muestra la actividad del dispositivo (cuando se conecto, cuando se desconecto y el porcentaje de la batería
+y la última pantalla se muestra cuando la batería está en un 5%  en donde te darán recomendaciones para conectar al dispositivo y en caso de una situación extrema hay dos botones uno de llamada de emergencia y un botón para enviar un correo electrónico.
+
+
+
+Link del Diseño UI/UX:https://www.figma.com/make/nXdSx78hvtlx1QPB7Ja4mG/Dise%C3%B1ar-pantallas-de-app?t=ec4Xw09ioirD83V1-1&preview-route=%2Falert
+
